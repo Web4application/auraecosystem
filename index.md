@@ -8,10 +8,9 @@
 <meta name="twitter:title" content="Join the web4 Discord Server!" />
 <meta name="twitter:description" content="Web4 app The chatting platform | 90 members" />
 <meta property="og:title" content="Join the web4 Discord Server!" />
-<meta property="og:url" content="https://discord.com/invite/qzKvJpweA4" />
+<meta property="og:url" content="" />
 <meta property="og:description" content="Web4 app The chatting platform | 90 members" />
 <meta property="og:site_name" content="WEB4app" />
-<link rel="canonical" href="https://discord.com/invite/qzKvJpweA4" />
 <meta property="og:locale:alternate" content="cs" />
 <meta property="og:locale:alternate" content="de" />
 <meta property="og:locale:alternate" content="ro" />
