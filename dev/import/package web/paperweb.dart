@@ -1,6 +1,7 @@
-:paperweb_website:
+
+:paperweb_website: 
 .. https://fastht.ml:
-:fastht.ml: :name the webasite: .. https://aura.paperweb:
+:fastht.ml: name the webasite .. https://aura.paperweb:
 :aura.paperweb: .. projectstructure:
 :extension: .. tags:
 :notebookxlsl:
@@ -55,7 +56,7 @@
 .. puremathematics:
 .. data:
 :playground: :https://books.google.com.ng:
-.. https://aura.build: .. design all the entire pages on: https://aura.paperweb
+:@https://aura.build: design all the entire pages on :https://aura.papeqreeb:
 :fast.ai: documents everything with images
  :Author: Seriki_Yakub
  :Date: 2025
