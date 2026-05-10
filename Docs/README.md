@@ -1,11 +1,11 @@
 ---
-name: 
-docs: fasthtml
-pages:
+name: auraxlsl paper and its ecosystem
+docs: https://fasth.ml
+pages: https://fastapi.com
 projectstructure:  
 synthetic: 
 extension: 
-tags:
+tags: https://fastai1.core.ai
 notebookxlsl:
 quantum:
 model: 
