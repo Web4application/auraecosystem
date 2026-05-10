@@ -1,5 +1,5 @@
 ---
-name: auraxlsl paper and its ecosystem
+name: auraxlsl paper and its  ecosystem
 docs: https://fasth.ml
 pages: https://fastapi.com
 projectstructure:  
