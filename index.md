@@ -1,6 +1,6 @@
 ---
 name: auraxlsl paper and its ecosystem
-docs: https://fasth.ml
+docs: https://fasth.ml/index.html#index.md
 pages: https://fastapi.com
 projectstructure:  
 synthetic: 
@@ -17,7 +17,7 @@ audioclassification:
 biology:
 agent:
 prettyname:
-paperweb: 
+paperweb: index.md/index.html
 quantumpaper:
 imagecategories: 
 taskcategories: 
@@ -28,5 +28,5 @@ QuantumIDE:
 Interactive: drag-and-drop
 quantum_circuit: 
 simulator_with_GPU: 
-accelerated_backend:: 
+accelerated_backend:: src/page.web4.py/index.html#index.md
 ---
