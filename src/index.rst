@@ -4,7 +4,7 @@
 :aura.paperweb: .. projectstructure:
 :extension: .. tags:
 :notebookxlsl:
-:quantum:
+:quantum: @lmlmmodels
 :model: 
 :sentence: .. similarity:
 .. text-generation:
@@ -18,7 +18,7 @@
 .. chemistry
 .. biology:
 .. synthetic:
-.. agent:
+.. agent: @lmlm
 .. pretty_name: ..paperweb: 
 :quantumpaper:
 .. image_categories:
@@ -41,7 +41,7 @@
 .. unconditional-image-generation:
 .. video-classification:
 :reinforcement-learning:
-:depth-estimation:
+:depth-estimation: @lmlm
 :license: creativeml-openrail-m
 :language: eng
 :paper: 
