@@ -1,3 +1,4 @@
+
 :paperweb_website: 
 .. https://fastht.ml:
 :fastht.ml: name the webasite .. https://aura.paperweb:
@@ -41,39 +42,44 @@
 .. unconditional-image-generation:
 .. video-classification:
 :reinforcement-learning:
-      :depth-estimation:
-    :license: creativeml-openrail-m
-.. language: eng
+:depth-estimation:
+:license: creativeml-openrail-m
+:language: eng
 :paper: 
 :scientific_paper:
-:paperweb: .. https://books.google.com.ng:
+:paperweb_books: .. https://books.google.com.ng:
 .. xtend:
-:workbook: 
-:quantum: 
+.. workbook: 
+.. quantum: 
 .. teleportation: 
 .. qubits: 
 .. puremathematics:
-.. data:
-:playground: :https://books.google.com.ng:
-:@https://aura.build: design all the entire pages on :https://aura.papeqreeb:
+:data:
+:playground: 
+.. @https://aura.build: design all the entire pages on https://aura.paperweb
 :fast.ai: documents everything with images
  :Author: Seriki_Yakub
  :Date: 2025
  :project:Aura File Ecosystem — v0.1
-:bib: @misc{yakub_aura_2025,
-:author:        -> {Yakub, Seriki},
-:title:         -> {Aura.Xlsl (Revision 668d721)},
-:year:          -> 2025,
-:url:         ->{https://huggingface.co/datasets/Seriki/Aura.Xlsl},
-:doi:         -> {10.57967/hf/6674},
-:publisher:    -> {Aura / Hugging Face}
+:bib: @misc{yakub_aura_2025
+:author:        # -> {Yakub, Seriki}
+:title:        #  -> {Aura.Xlsl (Revision 668d721)}
+:year:          -> 2025
+:url:         -># {https://huggingface.co/datasets/Seriki/Aura.Xlsl}
+:doi:        #  -> {10.57967/hf/6674},
+:publisher:    # -> {Aura / Hugging Face}
 :Auraxlslpaper: ->
 :Serai: ->
 :QuantumIDE: ->
-.. :
-Interactive drag-and-drop quantum circuit simulator with GPU-accelerated backend.
 
-:Features:                           
+: .. :
+				   
+:Interactive:: - 
+				    :drag-and-drop: - :quantum: -
+				   :circuit: - 
+				   :simulator with GPU-accelerated: - 
+				   :backend: 
+				   :Features:                           
 - Drag-and-drop quantum gates (H, X, Y, Z, CNOT, TOFFOLI)
 - Multi-qubit circuit simulation
 - Real-time amplitude visualization
@@ -432,25 +438,29 @@ The expanded Aura project workbook is now ready with all new sheets for a comple
 This brings Aura.xlsl to a total of sheets, making it a fully functional research and project hub supporting AI, quantum computing, lifespan studies, applied STEM research, ethics, economics, simulations, visualization, collaboration, and deployment.
 
 
-You can download the full workbook here
+.. You can download the full workbook here:
+					 
 :Aura_Full_Project.xlsl:
-
-
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/52ab2b56-b0b6-4a26-9871-6c3cf8cb53a7" />
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9853e362-7677-45d2-9a1b-a75437e07486" />
 
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a7b76ddc-6a1f-466b-9beb-e34224d76e74" />
 
-Performs a book search.
+:Performs a book search:
+				
 [Try it now](https://developers.google.com/books/docs/v1/reference/volumes/list#try-it).
 
-## Request
+:
+			 Request:
 
-##
 
-[HTTP.Request GET](https://www.googleapis.com/books/v1/volumes?q={aura.Xlsl})
+			
 
-https://huggingface/datasets?other=medical
+:[HTTP.Request GET](https://www.googleapis.com/books/v1/volumes?q={aura.Xlsl}):
 
-[aura.paperweb](https://www.googleapis.com/huggingface/datasets?r=Xlsl.paper.notebook.xlsl.model.lmlm.medical.niology.local.cs.ai.arxiv}src="https://huggingface.co/datasets/HelioAI/Helio1-Reasoning-50K-RU/embed/viewer/default/train")(https://www.googleapis.com/books/v1/volumes?q=%7Baura.xlslpaperwebworkbook%7D)
+.. https://huggingface/datasets?other=medical:
+:[aura.paperweb]::(https://www.googleapis.com/huggingface/datasets?r=Xlsl.paper.notebook.xlsl.model.lmlm.medical.niology.local.cs.ai.arxiv}src="https://huggingface.co/datasets/HelioAI/Helio1-Reasoning-50K-RU/embed/viewer/default/train")(https://www.googleapis.com/books/v1/volumes?q=%7Baura.xlslpaperwebworkbook%7D)
+
+
+				   
